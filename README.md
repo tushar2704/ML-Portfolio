@@ -14,7 +14,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases a collection
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
+Welcome to my Machine Learning Portfolio! This repository showcases my skills and experience in the field of Machine Learning. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions through Machine Learning.
 
 ## Table of Contents
 
