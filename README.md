@@ -51,10 +51,10 @@ This project aims to revolutionize the way banks market to their customers by le
 Predict the average money spent on taxi rides for each region of New York per given day and hour.
 This problem is a supervised regression problem. Supervised because we have the actual value of the value we’re trying to predict and regression because what we’re trying to predict is a continuous variable (as opposed to categorical).
 
-## [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
+## [Project 5: HINGLISH](https://github.com/tushar2704/HINGLISH)
 
-This project revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends.
----
+This project focuses on building a Neural Machine Translation (NMT) system to translate English sentences to Hindi. NMT has revolutionized the field of language translation by leveraging deep learning techniques to produce more accurate and natural-sounding translations.
+
 ## [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
