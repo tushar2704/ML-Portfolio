@@ -37,11 +37,11 @@ Welcome to my Machine Learning Portfolio! This repository showcases my skills an
 ## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
----
-## [Project 2: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
 
-The focus of this project is to delve into the realm of international debt analysis and understand its dynamics in a specific context. By narrowing down the scope, I aim to provide in-depth insights that resonate with the complexities and challenges faced by the selected region/country.
----
+## [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
+
+This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment.
+
 ## [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
 
 The objective of this project is to build a sales forecasting model that predicts future sales for each Rossmann store. By leveraging historical sales data, store-specific information, and external factors like holidays, the model aims to provide reliable sales predictions for upcoming periods. This will help Rossmann allocate resources efficiently, optimize store operations, and maintain customer satisfaction by ensuring the availability of products.
