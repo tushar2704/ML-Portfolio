@@ -20,8 +20,8 @@ Welcome to my Machine Learning Portfolio! This repository showcases my skills an
 ## Table of Contents
 
 - [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
-- [Project 2: International Debt Analysis](https://github.com/tushar2704/International-Debt-Analysis)
-- [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
+- [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
+- [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
 - [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 - [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
@@ -40,12 +40,12 @@ In this project, I analyzed and visualized the sales data for Retail and Food Se
 
 ## [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
 
-This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment.
+This project aims to predict the quality of wines using various machine learning algorithms. It utilizes the MLflow platform to manage the end-to-end machine learning lifecycle, including data preprocessing, model training, hyperparameter tuning, and deployment on AWS EC2.
 
-## [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
+## [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
 
-The objective of this project is to build a sales forecasting model that predicts future sales for each Rossmann store. By leveraging historical sales data, store-specific information, and external factors like holidays, the model aims to provide reliable sales predictions for upcoming periods. This will help Rossmann allocate resources efficiently, optimize store operations, and maintain customer satisfaction by ensuring the availability of products.
----
+This project aims to revolutionize the way banks market to their customers by leveraging machine learning techniques to segment customers based on their account history, credit scores, and demographics. By gaining insights into distinct customer groups, banks can tailor their marketing and customer acquisition strategies for optimal results.
+
 ## [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
 
 his project aims to analyze the historical trends of Netflix stock prices using Python and data analysis techniques. By examining the stock price data, we can gain insights into price fluctuations, patterns, and potential trends, which can be valuable for investors and financial analysis.
