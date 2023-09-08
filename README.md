@@ -22,7 +22,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases my skills an
 - [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 - [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
 - [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
-- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
+- [Project 4: New York Taxi Spending Analysis](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 - [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
 - [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
@@ -46,10 +46,11 @@ This project aims to predict the quality of wines using various machine learning
 
 This project aims to revolutionize the way banks market to their customers by leveraging machine learning techniques to segment customers based on their account history, credit scores, and demographics. By gaining insights into distinct customer groups, banks can tailor their marketing and customer acquisition strategies for optimal results.
 
-## [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
+## [Project 4: New York Taxi Spending Analysis](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
 
-his project aims to analyze the historical trends of Netflix stock prices using Python and data analysis techniques. By examining the stock price data, we can gain insights into price fluctuations, patterns, and potential trends, which can be valuable for investors and financial analysis.
----
+Predict the average money spent on taxi rides for each region of New York per given day and hour.
+This problem is a supervised regression problem. Supervised because we have the actual value of the value we’re trying to predict and regression because what we’re trying to predict is a continuous variable (as opposed to categorical).
+
 ## [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 
 This project revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends.
