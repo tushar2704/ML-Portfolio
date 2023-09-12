@@ -76,7 +76,7 @@ This project predicts the sales demand for various items in different stores bas
 ## [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
 
 E-commerce companies are relentlessly working to augment user experiences and bolster sales by offering tailor-made product recommendations. The "E-commerce Product Recommendation" project endeavors to create a recommendation system that suggests products to users based on their historical interactions and preferences.
----
+
 ## [Project 11: Hiring Process Analytics](https://github.com/tushar2704/Hiring-Process-Analytics)
 
 In this project, I am analyzing hiring process data to gain insights from about records of previous hires within a multinational company. By analyzing this data, I am aiming to uncover valuable trends and information about the company's hiring process, which can contribute to making informed decisions and improvements for the future. 
