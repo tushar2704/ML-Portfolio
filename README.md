@@ -72,7 +72,7 @@ The project will cover a wide range of areas, including user engagement, sales p
 ## [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
 
 This project predicts the sales demand for various items in different stores based on historical sales data. The objective is to develop a machine learning model that can provide accurate forecasts for future sales of each store-item combination. 
----
+
 ## [Project 10: Product Recommendation](https://github.com/tushar2704/Product-Recommendation)
 
 E-commerce companies are relentlessly working to augment user experiences and bolster sales by offering tailor-made product recommendations. The "E-commerce Product Recommendation" project endeavors to create a recommendation system that suggests products to users based on their historical interactions and preferences.
