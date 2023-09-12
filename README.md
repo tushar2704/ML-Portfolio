@@ -68,7 +68,7 @@ Exploring a treasure trove of insights and captivating visualizations drawn from
 ## [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
 
 The project will cover a wide range of areas, including user engagement, sales performance, marketing effectiveness, and more. You'll be provided with access to datasets containing user information, events data, and email engagement details.
----
+
 ## [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
 
 This project predicts the sales demand for various items in different stores based on historical sales data. The objective is to develop a machine learning model that can provide accurate forecasts for future sales of each store-item combination. 
