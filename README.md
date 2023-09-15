@@ -46,7 +46,7 @@ This project aims to predict the quality of wines using various machine learning
 
 This project aims to revolutionize the way banks market to their customers by leveraging machine learning techniques to segment customers based on their account history, credit scores, and demographics. By gaining insights into distinct customer groups, banks can tailor their marketing and customer acquisition strategies for optimal results.
 
-## [Project 4: New York Taxi Spending Analysis](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
+## [Project 4: New York Taxi Spending Prediction](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
 
 Predict the average money spent on taxi rides for each region of New York per given day and hour.
 This problem is a supervised regression problem. Supervised because we have the actual value of the value we’re trying to predict and regression because what we’re trying to predict is a continuous variable (as opposed to categorical).
