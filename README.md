@@ -22,7 +22,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases my skills an
 - [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 - [Project 2: Wine Quality Prediction with MLFLOW experiments](https://github.com/tushar2704/Wine_Quality)
 - [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
-- [Project 4: New York Taxi Spending Analysis](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
+- [Project 4: New York Taxi Spending Prediction](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
 - [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
 - [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
