@@ -24,7 +24,7 @@ Welcome to my Machine Learning Portfolio! This repository showcases my skills an
 - [Project 3: Bank German Customer Segmentation & Classification Machine Learning Model as Flask API](https://github.com/tushar2704/Bank-German-Customer-Segmentation)
 - [Project 4: New York Taxi Spending Prediction](https://github.com/tushar2704/New-York-Taxi-Spending-Analysis)
 - [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
+- [Project 6: HINGLISH](https://github.com/tushar2704/HINGLISH)
 - [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 - [Project 8: Operational Analytics Study](https://github.com/tushar2704/Operational-Analytics-Study)
 - [Project 9: Store Demand Forecasting](https://github.com/tushar2704/Store-Demand-Forecasting)
