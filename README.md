@@ -57,8 +57,7 @@ This project focuses on building a Neural Machine Translation (NMT) system to tr
 
 ## [Project 6: HINGLISH](https://github.com/tushar2704/HINGLISH)
 
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
-![](https://github.com/tushar2704/Data-Analytics-Portfolio/blob/main/src/images/6.png)
+This project focuses on building a Neural Machine Translation (NMT) system to translate English sentences to Hindi. NMT has revolutionized the field of language translation by leveraging deep learning techniques to produce more accurate and natural-sounding translations.
 
 ## [Project 7: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
 
