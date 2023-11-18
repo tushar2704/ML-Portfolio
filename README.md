@@ -84,7 +84,7 @@ In this project, I am analyzing hiring process data to gain insights from about 
 
  
 ## Contact Information
-
+ 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
