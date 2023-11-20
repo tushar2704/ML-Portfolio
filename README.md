@@ -92,11 +92,18 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
  
 
 ## Author  
-## Author  
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
 - <b>[X](https://twitter.com/TaggData)</b> 
+- <b>[Data Unboxed Newsletter](https://tadata.substack.com/)</b> 
+- <b>[HuggingFace](https://huggingface.co/tushar27)</b> 
+- <b>[DagsHub](https://dagshub.com/tushar27)</b> 
+- <b>[Hashnode](https://hashnode.com/@TAGG)</b> 
+- <b>[NovyPro](https://www.novypro.com/profile_projects/tusharagg)</b> 
+- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+
+
 
 
